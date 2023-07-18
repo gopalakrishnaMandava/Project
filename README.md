@@ -1,11 +1,11 @@
 # Projects
 
-Plant disease detection using Python.
+1. Plant disease detection using Python.
 
-Physical Design Project is performed on Cadence Innovus tool.
+2. Physical Design Project is performed on Cadence Innovus tool.
 
-J Bus Interface block Implementation from RTL to GDSII
+3. J Bus Interface block Implementation from RTL to GDSII
 
-Interconnect repeater Insertion is performed on Cadence Virtuoso.
+4. Interconnect repeater Insertion is performed on Cadence Virtuoso.
 
 
